@@ -1,0 +1,13 @@
+name = "RER"
+author = "ModogTheDev, KarlBH"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d0530e47877059f114490f664a2925c3bb9eb869365a0410db5b9241b6295b4"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.225"

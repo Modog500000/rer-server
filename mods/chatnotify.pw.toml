@@ -1,0 +1,13 @@
+name = "Chat Notify"
+filename = "chatnotify-neoforge-2.6.6+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40517abcd10071b949a445dc6daaf32bb8f3c216"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7574682
+project-id = 855056
