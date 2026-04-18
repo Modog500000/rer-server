@@ -90,8 +90,13 @@ file = "mods/corpse-neoforge-1.21.1-1.1.13.jar"
 hash = "80d984f0a17d968220129cc58edd5c9f28a5f61a84ec67dcc41228a46dfa4bb1"
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
@@ -172,11 +177,6 @@ hash = "6ea6169ebce789689a3f08e36154580f119bcedd528c419a10c4cf621328fb6e"
 metafile = true
 
 [[files]]
-file = "mods/relics-mod.pw.toml"
-hash = "b3d4cbc2e7381b91da2f2afa157c888b6d6ca655ff106a87254e408329b38980"
-metafile = true
-
-[[files]]
 file = "mods/scribble.pw.toml"
 hash = "3e4d54b059c5a1be2c036950d3f31b4b477b1f2f7bb5a4a99348a6919052d4fb"
 metafile = true
@@ -232,3 +232,7 @@ hash = "1bb01fa096c82ce20fc841e658f6e1778d88785a84bd6a28c2733f589b1b83f3"
 [[files]]
 file = "packwizignore.txt"
 hash = "49360ef5dd4e5b795569222bff21fd6b90e01151efbafad57e26f55c16d86123"
+
+[[files]]
+file = "servers.dat"
+hash = "b582b0787cb4eb4f2a6841c2a43655666355494268fc326f81b0df98e233adba"
