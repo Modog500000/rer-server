@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "gitattributes.txt"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore.txt"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+
+[[files]]
 file = "mods/allurement.pw.toml"
 hash = "312f9fd347ddca4972cc561e0004a0ee2a89de239ab08bb76ca48dce71b28240"
 metafile = true
