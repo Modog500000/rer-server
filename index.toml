@@ -90,6 +90,11 @@ file = "mods/corpse-neoforge-1.21.1-1.1.13.jar"
 hash = "80d984f0a17d968220129cc58edd5c9f28a5f61a84ec67dcc41228a46dfa4bb1"
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "d2754c84f0e4770a5852543af08dd02029056d46b7eb751586f77f93af5a1811"
+metafile = true
+
+[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
@@ -179,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-rain.pw.toml"
 hash = "6ea6169ebce789689a3f08e36154580f119bcedd528c419a10c4cf621328fb6e"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "a9b043b218bd43286ec498ad891715e3871aa2a4a6f1ba4838b4eb5d0dbf66a1"
 metafile = true
 
 [[files]]
