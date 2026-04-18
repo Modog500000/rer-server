@@ -105,6 +105,10 @@ hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
+file = "mods/cugmod-0.0.1.jar"
+hash = "2f1e3db17beb8521ea142a82b5c40ee7217db031662128f67e87073d9e2c3b19"
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
@@ -232,6 +236,11 @@ hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
 metafile = true
 
 [[files]]
+file = "mods/touys.pw.toml"
+hash = "78f49d391cdeb434b7866e525032037ad229f288d89f4b8fda4522aac2ce45f3"
+metafile = true
+
+[[files]]
 file = "mods/veil-neoforge-1.21.1-3.4.1.jar"
 hash = "1ca66394c6344c1f81b856826ea4caf12cbe339dfa5e744c27601febffc9dfdc"
 
@@ -243,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/woodworks-1.21.1-4.0.2.jar"
 hash = "1bb01fa096c82ce20fc841e658f6e1778d88785a84bd6a28c2733f589b1b83f3"
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
+metafile = true
 
 [[files]]
 file = "packwizignore.txt"
