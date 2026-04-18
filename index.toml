@@ -228,3 +228,7 @@ metafile = true
 [[files]]
 file = "mods/woodworks-1.21.1-4.0.2.jar"
 hash = "1bb01fa096c82ce20fc841e658f6e1778d88785a84bd6a28c2733f589b1b83f3"
+
+[[files]]
+file = "packwizignore.txt"
+hash = "49360ef5dd4e5b795569222bff21fd6b90e01151efbafad57e26f55c16d86123"
