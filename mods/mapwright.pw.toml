@@ -1,13 +1,13 @@
 name = "Mapwright"
 filename = "mapwright-neoforge-1.21.1-1.0.5.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "03b7da556ed22b14e0b1832a08c5fc1184e154b9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iDYmMWwn/versions/hv73uOGB/mapwright-neoforge-1.21.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "142a625a33e4fe548c6515178928a64ffff0e5a223ab90a376ccefb4680abf7ffc601063eaa4e36a6c2d8c7c5848db82bd5069907252919d0db9ae10c694bb40"
 
 [update]
-[update.curseforge]
-file-id = 7897274
-project-id = 1361711
+[update.modrinth]
+mod-id = "iDYmMWwn"
+version = "hv73uOGB"
