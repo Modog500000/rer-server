@@ -152,11 +152,6 @@ file = "mods/light_the_way-neoforge-1.21.1-1.1.2.jar"
 hash = "4aa28c93f1a0423834109caccee6040ed94634695a55e2707c302ac589764f94"
 
 [[files]]
-file = "mods/mapwright.pw.toml"
-hash = "1a39f7cd81a54b9e4dc5668eebc897cd5dc2b2f6fc2b354f462cc912da7b77c0"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
