@@ -24,9 +24,27 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/azimuth-1.2.0.jar"
+hash = "55cd62eb089de67ac5efd0b1757b95ad347e9e07e71209d810e010dde86de4e8"
+
+[[files]]
+file = "mods/backpacks-for-dummies.pw.toml"
+hash = "2a70f9a8d78c785fe6ddf451a02e6ea1f5fcb0c58e6b02028c4339107838d74f"
+metafile = true
+
+[[files]]
+file = "mods/better-farming-right-click.pw.toml"
+hash = "517e0fbb80a05f38b5e259f70defde9a88bc10de0222ade3899b03fa971c3667"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "6e60967fb94f0f8607281e1b00a4bc98f93958937f92f25bb77982d79e98ca5c"
 metafile = true
+
+[[files]]
+file = "mods/bits_n_bobs-1.0.0.jar"
+hash = "89dcc23a5b4cc8bc40c948d1a55a5508ae378893a4be492e4c88e73afc092065"
 
 [[files]]
 file = "mods/blueprint.pw.toml"
@@ -59,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatnotify.pw.toml"
-hash = "e65222a60eda85ee7b918e1766daae4c545312a511b0a18bf434e941e75963af"
+hash = "99a73a08c3a6f4043edac92e1bed69aec929064f9407598f8ba0befe5952bf88"
 metafile = true
 
 [[files]]
@@ -91,12 +109,17 @@ hash = "80d984f0a17d968220129cc58edd5c9f28a5f61a84ec67dcc41228a46dfa4bb1"
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "d2754c84f0e4770a5852543af08dd02029056d46b7eb751586f77f93af5a1811"
+hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
 metafile = true
 
 [[files]]
-file = "mods/create-bits-n-bobs.pw.toml"
-hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+file = "mods/create-easy-stock-ticker.pw.toml"
+hash = "de4bcd0988db2d00762da6e174261d92dc8e93c57b66a63a35b6e5833da0086c"
+metafile = true
+
+[[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
 metafile = true
 
 [[files]]
@@ -115,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "3a0da1a01f5281b39b00612f283b405e2d6c64d058cdf0571982a60480afe048"
+hash = "ba0adb595c1abd57e51eef4c7944d65e3e54d34815383e839c4cc49af829d7b0"
 metafile = true
 
 [[files]]
@@ -192,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "a9b043b218bd43286ec498ad891715e3871aa2a4a6f1ba4838b4eb5d0dbf66a1"
+hash = "a8ac5ced9cafa5cf53d9f4d0cb61df06729d1a7b66b88d6b5a2e609b1ca26fa0"
 metafile = true
 
 [[files]]
@@ -212,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ba5aaffb1d8c830c8e86eb41a30b311300cab95af99657a586a91bdaf1f0f4b4"
+hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
 metafile = true
 
 [[files]]
@@ -226,6 +249,15 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "24e58ffc236237b2a11915d907bef33b76e88db2221dc616689981940228b24d"
+metafile = true
+
+[[files]]
+file = "mods/struts-1.1.1.jar"
+hash = "c600b4f37a749dad7f95456d31f47f7ede51daebf9e7c08d65af849c67f2465c"
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "36a9973a4f3cd5aef77cf4199ff1a3e243c36a379b6c83c789a2ed7ceddd6986"
 metafile = true
@@ -237,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/touys.pw.toml"
-hash = "78f49d391cdeb434b7866e525032037ad229f288d89f4b8fda4522aac2ce45f3"
+hash = "1b1f89d29c2ecc02f3d132718d078e0add20c3ac7e5f3f8d362eb824023d8082"
 metafile = true
 
 [[files]]
@@ -246,7 +278,7 @@ hash = "1ca66394c6344c1f81b856826ea4caf12cbe339dfa5e744c27601febffc9dfdc"
 
 [[files]]
 file = "mods/vista.pw.toml"
-hash = "e7caf3cc5301fe682b112213a9eb1acce10fc378ff5b5cfb03e1c01f94a7ced3"
+hash = "f0da028c13dc4c9ad963883ddfc23a1c7b46a15aba094f90f14dbcc31d2ab7c0"
 metafile = true
 
 [[files]]
