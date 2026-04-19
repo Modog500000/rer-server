@@ -249,11 +249,6 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
-file = "mods/squaremap.pw.toml"
-hash = "24e58ffc236237b2a11915d907bef33b76e88db2221dc616689981940228b24d"
-metafile = true
-
-[[files]]
 file = "mods/struts-1.1.1.jar"
 hash = "c600b4f37a749dad7f95456d31f47f7ede51daebf9e7c08d65af849c67f2465c"
 
