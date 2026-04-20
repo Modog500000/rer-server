@@ -229,11 +229,6 @@ hash = "3e4d54b059c5a1be2c036950d3f31b4b477b1f2f7bb5a4a99348a6919052d4fb"
 metafile = true
 
 [[files]]
-file = "mods/seamless.pw.toml"
-hash = "b6cd4b74980650b67a0b6b4f9db33d4d229336a40c5c03bcafdec44213253a91"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
