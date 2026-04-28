@@ -19,11 +19,6 @@ hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
-file = "mods/analog-audio.pw.toml"
-hash = "2bf8856368d890d07112bd77dc9bc8bc32a3c0b3c9c05281b0ad11105c2e1799"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
