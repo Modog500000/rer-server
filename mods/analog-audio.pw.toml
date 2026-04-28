@@ -1,0 +1,13 @@
+name = "Analog Audio"
+filename = "analogaudio-1.21.1-0.1.0-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iMAVG2nH/versions/S8686gdM/analogaudio-1.21.1-0.1.0-beta.1.jar"
+hash-format = "sha512"
+hash = "6518a3087e6a2ec3dcb6b00896d614baedd5d2c19d908ca20d7652f93d6366db63f4021c6e0ea206bf1d734d03b30c8c627ebe938352d3dd7f6a156d12052ec2"
+
+[update]
+[update.modrinth]
+mod-id = "iMAVG2nH"
+version = "S8686gdM"

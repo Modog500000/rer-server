@@ -19,6 +19,11 @@ hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
+file = "mods/analog-audio.pw.toml"
+hash = "2bf8856368d890d07112bd77dc9bc8bc32a3c0b3c9c05281b0ad11105c2e1799"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -29,8 +34,8 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
-file = "mods/azimuth-1.2.0.jar"
-hash = "55cd62eb089de67ac5efd0b1757b95ad347e9e07e71209d810e010dde86de4e8"
+file = "mods/azimuth-1.2.3.jar"
+hash = "c834bc0f4eb6e969a8e46988f0f7e33d6dd6f8a2ac6ecae67f6db6071862aea6"
 
 [[files]]
 file = "mods/backpacks-for-dummies.pw.toml"
@@ -48,8 +53,8 @@ hash = "6e60967fb94f0f8607281e1b00a4bc98f93958937f92f25bb77982d79e98ca5c"
 metafile = true
 
 [[files]]
-file = "mods/bits_n_bobs-1.0.0.jar"
-hash = "89dcc23a5b4cc8bc40c948d1a55a5508ae378893a4be492e4c88e73afc092065"
+file = "mods/bits_n_bobs-2.0.0-preview.jar"
+hash = "74e1f4c058e2e2da4feb5dbfd598e31449916fa5f2bece3282672279f64f6aa1"
 
 [[files]]
 file = "mods/blueprint.pw.toml"
@@ -82,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatnotify.pw.toml"
-hash = "99a73a08c3a6f4043edac92e1bed69aec929064f9407598f8ba0befe5952bf88"
+hash = "bffaf81eeaae8c4d35ab3e084e2ab5683a16496879d87e56a1c194278a2f7178"
 metafile = true
 
 [[files]]
@@ -119,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
@@ -143,8 +148,8 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
-file = "mods/cugmod-0.0.1.jar"
-hash = "2f1e3db17beb8521ea142a82b5c40ee7217db031662128f67e87073d9e2c3b19"
+file = "mods/cugmod-0.0.3.jar"
+hash = "26391f662102ba801f22beb2913bd28497cc246e200f2830cbbb0d93b2271989"
 
 [[files]]
 file = "mods/curios.pw.toml"
@@ -153,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "ba0adb595c1abd57e51eef4c7944d65e3e54d34815383e839c4cc49af829d7b0"
+hash = "7c25c3078e3651fe936d6356c9bb4e5311e95bc102dbdc42b3f00f4467e1c27e"
 metafile = true
 
 [[files]]
@@ -173,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "49185aecb9ea9176fb371ff175e7c052970855b62387fe766c252636c3989cbf"
+hash = "0e7ca8cb57c5c68c0f348903430e221677a0ca5392e7ac24e759e8983883fc23"
 metafile = true
 
 [[files]]
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
@@ -264,8 +269,8 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
-file = "mods/struts-1.1.1.jar"
-hash = "c600b4f37a749dad7f95456d31f47f7ede51daebf9e7c08d65af849c67f2465c"
+file = "mods/struts-1.2.0.jar"
+hash = "e0c816beb971abacb9173755b1528b71a2312ff77d35e5f4e879ab96a209dfce"
 
 [[files]]
 file = "mods/superposition-neoforge-1.21.1-0.4.1.jar"
@@ -283,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/touys.pw.toml"
-hash = "1b1f89d29c2ecc02f3d132718d078e0add20c3ac7e5f3f8d362eb824023d8082"
+hash = "54e20f405bc465dcb41aaaa2c13b29d31e41c947f086d3f6a21c808201690d61"
 metafile = true
 
 [[files]]
