@@ -57,11 +57,6 @@ hash = "e5a9dfd4a06c0a01081ed19a94c314b6fdd51440e0b2647c1d8b579ffd332872"
 metafile = true
 
 [[files]]
-file = "mods/brewin-and-chewin.pw.toml"
-hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked-1.21.1-forge-1.117.1.jar"
 hash = "828d37b1fd2360db026c0cc1053373ada02d1aadd6e3ec3b787c8bfd718615ca"
 
