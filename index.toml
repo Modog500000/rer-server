@@ -272,6 +272,10 @@ file = "mods/superposition-neoforge-1.21.1-0.5.0.jar"
 hash = "b8b51abc38d2f02472cad31813ee473d92c18df92e8b36469bc55f658c2afe4c"
 
 [[files]]
+file = "mods/supplementaries-1.21-3.5.34-neoforge.jar"
+hash = "3e82252fcd89b090786e1640f8cf8fac76e3e35f30465849944e7b89ca2f433b"
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "36a9973a4f3cd5aef77cf4199ff1a3e243c36a379b6c83c789a2ed7ceddd6986"
 metafile = true
