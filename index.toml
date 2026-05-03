@@ -19,6 +19,10 @@ hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
+file = "mods/analogaudio-0.1.0-beta.2.jar"
+hash = "ddcd9296ca800173a1efa383502c864523985e51553f0bf6b84aec7675a616fe"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -278,11 +282,6 @@ hash = "3e82252fcd89b090786e1640f8cf8fac76e3e35f30465849944e7b89ca2f433b"
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "36a9973a4f3cd5aef77cf4199ff1a3e243c36a379b6c83c789a2ed7ceddd6986"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "e3032019efa643a3e32fe1f0339a9d2be4967e530740485254562aa506b5cfe2"
 metafile = true
 
 [[files]]
