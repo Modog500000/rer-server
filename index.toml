@@ -138,8 +138,8 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
-file = "mods/cugmod-0.0.3.jar"
-hash = "26391f662102ba801f22beb2913bd28497cc246e200f2830cbbb0d93b2271989"
+file = "mods/cugmod-0.0.4.jar"
+hash = "1ca5289e504dedf6fbd7962130daced9615de64855b8b16d63f256bf7ec083b8"
 
 [[files]]
 file = "mods/curios.pw.toml"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "0e7ca8cb57c5c68c0f348903430e221677a0ca5392e7ac24e759e8983883fc23"
+hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
+hash = "2542119f36f9da97055af35664aff60923772866a4a63b617836b2a0a74ea12b"
 metafile = true
 
 [[files]]
@@ -263,8 +263,8 @@ file = "mods/struts-1.2.0.jar"
 hash = "e0c816beb971abacb9173755b1528b71a2312ff77d35e5f4e879ab96a209dfce"
 
 [[files]]
-file = "mods/superposition-neoforge-1.21.1-0.4.1.jar"
-hash = "b91ae59503928abf29511cdf3d94fe86d17c31ed43825fe72084941caa7789c0"
+file = "mods/superposition-neoforge-1.21.1-0.5.0.jar"
+hash = "b8b51abc38d2f02472cad31813ee473d92c18df92e8b36469bc55f658c2afe4c"
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
+hash = "e3032019efa643a3e32fe1f0339a9d2be4967e530740485254562aa506b5cfe2"
 metafile = true
 
 [[files]]
