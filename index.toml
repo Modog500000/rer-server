@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/cugmod-0.0.5.jar"
-hash = "975aa94722d6fbccd365045c06eec8b3c7e5e7ca8f819f2a5860e387a896ae31"
+hash = "f4564d2d61de734a7af2333016b774cb01bfe03f278b5db3026afc6dcfb0b2ae"
 
 [[files]]
 file = "mods/curios.pw.toml"
