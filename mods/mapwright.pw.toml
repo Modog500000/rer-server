@@ -1,13 +1,13 @@
 name = "Mapwright"
-filename = "mapwright-neoforge-1.21.1-1.0.5.jar"
+filename = "mapwright-neoforge-1.21.1-1.0.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "03b7da556ed22b14e0b1832a08c5fc1184e154b9"
+hash = "7f1d9259cc82ec2d8799d9716f1bfa3bc6a8b45b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7897274
+file-id = 8051003
 project-id = 1361711

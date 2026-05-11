@@ -1,0 +1,13 @@
+name = "Superposition"
+filename = "superposition-neoforge-1.21.1-0.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ESkikPBv/versions/evFMUomE/superposition-neoforge-1.21.1-0.5.2.jar"
+hash-format = "sha512"
+hash = "69473c18094fb4ecaabc9242182a50640de9c12348e813095757851e8d968d1b34aba05e35e97de9178168a37097b45a3d74860b2f5413034f2f21586fd5337b"
+
+[update]
+[update.modrinth]
+mod-id = "ESkikPBv"
+version = "evFMUomE"
