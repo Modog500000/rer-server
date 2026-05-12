@@ -198,6 +198,11 @@ hash = "c5ad1776e5593ca7af72b2d249fd284334835cd028cf95daf4b96f619eb0fe53"
 metafile = true
 
 [[files]]
+file = "mods/imguimc.pw.toml"
+hash = "e2d8d1a807b65af72b0052d0e013e255cd639886cfe95bc0e2415301ae96f4d4"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
